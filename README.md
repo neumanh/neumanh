@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hadas Neuman</h1>
+Hi 👋, I'm Hadas Neuman
 
 - 🌱 I’m currently learning **deep learning** at [Y-data](https://ydata.co.il/)
 
