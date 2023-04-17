@@ -12,7 +12,7 @@ Hi 👋, I'm Hadas Neuman
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hadas-neuman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="hadas-neuman" height="40"  /></a>
+<a href="https://linkedin.com/in/hadas-neuman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="hadas-neuman" height="30"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
